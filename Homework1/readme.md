@@ -15,3 +15,4 @@ Kolay Gelsin.
 ----
 # Çözüm
 
+![SQL](https://user-images.githubusercontent.com/80968031/207879175-f3945602-4149-46f4-b848-4f036bfdb7b2.PNG)
