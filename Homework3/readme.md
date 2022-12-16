@@ -12,5 +12,6 @@ Aşağıdaki sorgu senaryolarını **dvdrental** örnek veri tabanı üzerinde
 Kolay Gelsin.    
 
 ---
+# Çözüm
 
 ![SQL3](https://user-images.githubusercontent.com/80968031/208113535-87343513-cb0b-4024-ad71-edf587f011f9.PNG)
